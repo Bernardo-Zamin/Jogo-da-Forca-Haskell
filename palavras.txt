@@ -31,7 +31,7 @@ miragem
 
 kiwi
 wiki
-kiwi
+
 
 lampada
 pala
